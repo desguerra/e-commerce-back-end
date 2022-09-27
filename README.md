@@ -4,7 +4,7 @@
 
 This project is an **e-commerce back end** that uses **Express.js**, **Sequelize**, and **MySQL2**.
 
-[Click HERE to view the project demonstration video!]()
+[Click HERE to view the project demonstration video!](https://drive.google.com/file/d/1RQT7h9ZrghrypzMqE1fMPVD0iWwru7zu/view)
 
 ## Table of Contents
 
